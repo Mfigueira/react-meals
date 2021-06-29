@@ -8,4 +8,4 @@ Based on lectures from Academind's React course.
 
 ## Can I see it?
 
-Yes! It's uploaded on Netlify [here](https://react-meals.netlify.app/).
+Yes! It's uploaded on Netlify [here](https://react-meals-mf.netlify.app/).
